@@ -1,0 +1,14 @@
+{
+  "name": "coffee-backtrace",
+  "author": "Doug Patti <douglas.patti@gmail.com>",
+  "description": "Expands coffee files in uncaught exceptions to add context with the compiled Javascript",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpatti/node-coffee-backtrace.git"
+  },
+  "main": "./lib/coffee-backtrace",
+  "keywords": ["coffee", "log", "error", "backtrace", "debug"],
+  "dependencies": {},
+  "license": "MIT"
+}
