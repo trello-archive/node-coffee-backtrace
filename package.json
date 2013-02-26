@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dpatti/node-coffee-backtrace.git"
+    "url": "https://github.com/FogCreek/node-coffee-backtrace.git"
   },
   "main": "./lib/coffee-backtrace",
   "keywords": ["coffee", "log", "error", "backtrace", "debug"],
