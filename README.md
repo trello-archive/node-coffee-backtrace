@@ -31,7 +31,7 @@ in a log file.
 
 ## How to use
 
-1. Add to your package.json dependencies or type `npm install coffee-backtrace`.
+1. Add to your package.json dependencies and run `npm install` or run `npm install coffee-backtrace`.
 
 2.  In your entry point file, add the following:
 
