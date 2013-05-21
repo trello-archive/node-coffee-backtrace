@@ -1,5 +1,5 @@
 # Run with
-# $ node_modules/.bin/coffee example
+# $ coffee example
 require('./lib/coffee-backtrace.js')
 
 class Relay
