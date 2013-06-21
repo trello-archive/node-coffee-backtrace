@@ -49,6 +49,10 @@ in a log file.
 
 3. That's it.
 
+Note that if you are also using the `coffee-script` package in your application,
+be sure to `require()` it *before* `coffee-backtrace`, or else it will override
+the stack trace hooks.
+
 ## Extra configuration
 
 You can control the number of context lines shown in one of two ways:
