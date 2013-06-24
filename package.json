@@ -2,7 +2,7 @@
   "name": "coffee-backtrace",
   "author": "Doug Patti <douglas.patti@gmail.com>",
   "description": "Expands coffee files in uncaught exceptions to add context with the compiled Javascript",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/FogCreek/node-coffee-backtrace.git"
